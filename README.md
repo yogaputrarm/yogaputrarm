@@ -1,7 +1,7 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=yogaputrarm-github&label=Profile+Views&color=ba0404&style=flat-square">
 </a>
-<h1 align="center"> Hi there👋, I'm Yoga - <a href="https:github.com/yogaputrarm/">yogaputrarm</a></h1>
+<h1 align="center"> Hi there👋, I'm Yoga - <a href="https://github.com/yogaputrarm/">yogaputrarm</a></h1>
 <h3 align="center">My Passion Programmer</h3>
 <!--
 **yogaputrarm/yogaputrarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
