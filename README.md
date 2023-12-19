@@ -2,7 +2,6 @@
     <img src="https://komarev.com/ghpvc/?username=yogaputrarm-github&label=Profile+Views&color=ba0404&style=flat-square">
 </a>
 <h1 align="center"> Hi there👋, I'm Yoga - <a href="https://github.com/yogaputrarm/">yogaputrarm</a></h1>
-<h3 align="center">My Passion Programmer</h3>
 
 ### About Me :
 - 🔭 I’m currently learning in [Surabaya State University](https://www.unesa.ac.id/) || Informatic Engineering
