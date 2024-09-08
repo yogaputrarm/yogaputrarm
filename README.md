@@ -5,8 +5,8 @@
 
 ### About Me :
 - 🔭 I’m currently learning in [Surabaya State University](https://www.unesa.ac.id/) || Informatic Engineering
-- 🌱 I’m currently learning html, bootstrap, css, javascript, network
-- 👯 I’m looking to collaborate as Web Development 
+- 🌱 I’m currently learning html, bootstrap, css, Network Management
+- 👯 I’m looking to collaborate as Web and Network Development
 - 💬 Ask me about **Network**
 
 ### Education : 
